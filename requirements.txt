@@ -3,5 +3,9 @@ python-dotenv
 pandas
 nest-asyncio
 spacy
+torch 
+transformers 
+datasets 
+seqeval
 
 
